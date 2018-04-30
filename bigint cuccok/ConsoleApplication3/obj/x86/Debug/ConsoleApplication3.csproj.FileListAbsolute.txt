@@ -1,0 +1,5 @@
+F:\Users\Alex\Documents\C# Progik\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Users\Alex\Documents\C# Progik\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Users\Alex\Documents\C# Progik\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+F:\Users\Alex\Documents\C# Progik\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
